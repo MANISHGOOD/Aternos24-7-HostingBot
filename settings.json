@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "FrontierCraft.play.hosting",
-    "port": 15173,
+    "port": ,
     "version": "1.21.4",
     "try-creative": false
   },
