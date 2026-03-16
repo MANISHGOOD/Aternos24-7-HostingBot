@@ -8,7 +8,7 @@
   "server": {
     "ip": "FrontierCraft.play.hosting",
     "port": 30355,
-    "version": "false",
+    "version": false,
     "try-creative": false
   },
   "position": {
