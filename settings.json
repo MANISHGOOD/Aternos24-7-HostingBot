@@ -8,7 +8,7 @@
   "server": {
     "ip": "Yukisuou.play.hosting",
     "port": 25565,
-    "version": false,
+    "version": 26.1.2,
     "try-creative": false
   },
   "position": {
@@ -47,7 +47,7 @@
     }
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
