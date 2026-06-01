@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Yukisuou.play.hosting",
+    "ip": "",
     "port": 25565,
     "version": false,
     "try-creative": false
